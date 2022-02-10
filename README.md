@@ -32,7 +32,6 @@ Test case scenarios
 Setup Cypress framework and write a front end automated script targeting www.harveynorman.com.au where you;
 
 
-1. Go to product page(for example https://www.harveynorman.com.au/google-nest-cam-outdoor-with-floodlights.html )
 1. Go to https://www.harveynorman.com.au/google-nest-cam-outdoor-indoor-battery-1-pack.html 
 2. Add the product to the cart
 3. Go to cart page
