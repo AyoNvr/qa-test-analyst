@@ -50,7 +50,7 @@ Please find the uploaded test scenarios for provided story [here](https://github
 
 ## Task B
 
-The report location - [mochasome report](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/mochawesome-report/mochawesome.html "cypress test report")
+The report location - [cypress test report](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/mochawesome-report/mochawesome.html "cypress test report")
 
-Cypress test video - [test video](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/cypress/videos/hn_shopping_cart.js.mp4 "cypress test video")
+Cypress test video - [cypress test video](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/cypress/videos/hn_shopping_cart.js.mp4 "cypress test video")
 
