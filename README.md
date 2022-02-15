@@ -42,3 +42,8 @@ Setup Cypress framework and write a front end automated script targeting www.har
 Create a report and upload the report in GitHub
 
 
+# Outputs
+
+## Task A
+
+Please find the uploaded test scenarios for provided story. 
