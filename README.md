@@ -47,3 +47,10 @@ Create a report and upload the report in GitHub
 ## Task A
 
 Please find the uploaded test scenarios for provided story [here](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/Test%20Scenarios.md "here")
+
+## Task B
+
+The report location - [mochasome report](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/mochawesome-report/mochawesome.html, "mochasome report")
+
+Cypress test video - [test video](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/harveynorman/cypress/videos/hn_shopping_cart.js.mp4, "test video")
+
