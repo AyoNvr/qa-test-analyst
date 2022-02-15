@@ -46,4 +46,4 @@ Create a report and upload the report in GitHub
 
 ## Task A
 
-Please find the uploaded test scenarios for provided story. 
+Please find the uploaded test scenarios for provided story [here](https://github.com/AyoNvr/qa-test-analyst/blob/ayo_dev/Test%20Scenarios.md "here")
