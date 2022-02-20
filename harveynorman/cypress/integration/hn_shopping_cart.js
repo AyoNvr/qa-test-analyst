@@ -2,7 +2,7 @@
 
 
 // checkout validation 
-describe('Checkout Validation',() => {
+describe('Shopping cart Validation',() => {
     
     before(() => {
         cy.log('Starting Test..')
