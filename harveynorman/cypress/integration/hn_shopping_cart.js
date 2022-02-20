@@ -26,7 +26,7 @@ describe('Checkout Validation',() => {
 
     })
 
-    it('View Checkout', function(){
+    it('View Shopping cart', function(){
         cy.get("#btn_checkout", {timeout: 2000}).click()
     })
 
